@@ -58,6 +58,6 @@ Privacy-policy for ChatGPT edits
   <p>We may update this Privacy Policy from time to time. Updated versions will be posted at this page.</p>
 
   <h2>8. Contact Us</h2>
-  <p>If you have questions, contact us at: <a href="mailto:melvinkwehjr016@gmail.com">melvinkwehjr016@gmail.com</a></p>
+  <p>If you have questions, contact us at: <a href="mailto:melvinkwehjr016@gmail.com" +231888444292>melvinkwehjr016@gmail.com</a></p>
 </body>
 </html>
